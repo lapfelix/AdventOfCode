@@ -112,10 +112,8 @@ for event in events {
 var sleepyGuardian : Guard?
 var consistentGuardian : Guard?
 var mostSlept = 0
-
 var mostSleptMin = 0
 var mostSleptMinuteIndexTotal = 0
-
 var mostPopMin = 0
 var mostPopMinuteIndexTotal = 0
 
